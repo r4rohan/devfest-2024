@@ -2,13 +2,13 @@
     {
         "id": "1001",
         "slide": "",
-        "title": "Session 1",
+        "title": "GKE Enterprise, do you really need it???",
         "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "track": "Cloud",
         "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Oct 19, 2024",
         "timeDuration": "40",
         "speakers": [
             101
@@ -17,13 +17,13 @@
     {
         "id": "1002",
         "slide": "",
-        "title": "Session 2",
+        "title": "Let's talk about Machine Learning",
         "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "track": "AI/ML",
         "link": "",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Oct 19, 2024",
         "timeDuration": "40",
         "speakers": [
             101
@@ -32,31 +32,31 @@
     {
         "id": "1003",
         "slide": "",
-        "title": "Session 3",
+        "title": "How I met your mother in tech??? Hehe",
         "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "track": "Non-sense",
         "link": "",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Oct 19, 2024",
         "timeDuration": "40",
         "speakers": [
-            102, 101
+            104, 101
         ]
     },
     {
         "id": "1004",
         "slide": "",
-        "title": "Session 4",
+        "title": "Hey, how you doin'???",
         "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "track": "Friends",
         "link": "",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Oct 19, 2024",
         "timeDuration": "40",
         "speakers": [
-            102
+            107
         ]
     }
 ]

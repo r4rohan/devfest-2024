@@ -1,24 +1,24 @@
 {
-  "communityName": "GDG London",
+  "communityName": "GDG Armenia",
   "communityLocation": {
-    "country": "United Kingdom",
-    "city": "London"
+    "country": "Armenia",
+    "city": "Yerevan"
   },
   "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
   "communityLinks": {
-    "page": "https://gdg.community.dev/gdg-london/",
-    "website": "https://gdg.community.dev/gdg-london/",
-    "instagram": "https://gdg.community.dev/gdg-london/",
-    "linkedin": "https://www.linkedin.com/company/google-developers-london/",
-    "youtube": "https://gdg.community.dev/gdg-london/"
+    "page": "https://gdg.community.dev/gdg-Yerevan/",
+    "website": "https://gdg.community.dev/gdg-Yerevan/",
+    "instagram": "https://gdg.community.dev/gdg-Yerevan/",
+    "linkedin": "https://www.linkedin.com/company/google-developers-Yerevan/",
+    "youtube": "https://gdg.community.dev/gdg-Yerevan/"
   },
   "eventInfo": {
-    "name": "DevFest London 2024",
-    "date": "Nov 16, 2024",
-    "time": "9 AM - 5 PM IST",
+    "name": "DevFest Yerevan 2024",
+    "date": "Oct 19, 2024",
+    "time": "9 AM - 5 PM",
     "venue": {
-      "address": "London",
-      "map_link": "https://maps.app.goo.gl/Cm6gXgpugNw74ow6A"
+      "address": "Woods Center (Վուդս Կենտրոն)",
+      "map_link": "https://maps.app.goo.gl/8K2UmLxDsy2ELh8i8"
     },
     "registeration": {
       "link": "https://gdg.community.dev/",

@@ -1,6 +1,11 @@
 {
   "hosting": {
+    "site":"devfestam24",
     "public": ".output/public",
+    "rewrites": [ {
+      "source": "**",
+      "destination": "/index.html"
+    }],
     "ignore": [
       "firebase.json",
       "**/.*",
